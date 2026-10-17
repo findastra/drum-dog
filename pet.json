@@ -2,7 +2,7 @@
   "pet": "Drum Dog",
   "kind": "pet-app",
   "owner": "Astra",
-  "job": "Music: Ableton Live project management, beat acquisition and sampling.",
+  "job": "Saves and samples music found online for Ableton Live, and plans releases: the first album, DJ mixes and where each one is hosted. Ableton Live connections are planned.",
   "sprite": "sprite-20261008.json",
   "preview": "drum-dog-20261008.html",
   "status": "hatching",
@@ -15,11 +15,16 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "updated": "2026-10-09",
   "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08",
   "entry": "drum-dog-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
-  "desktop_pet": "desktop-pet-20261011.json"
+  "desktop_pet": "desktop-pet-20261011.json",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "your track ideas and samples",
+    "needs": "a sample permission confirmed"
+  }
 }
