@@ -6,6 +6,14 @@
 
 Keep track ideas, samples and arrangement notes ready for the next session.
 
+## Pictures
+
+![Drum Dog's Session Crate: track idea counters, your desk and the New track idea form (tempo, key, sample link and permission)](docs/images/drum-dog-program-page-20261017.png)
+
+Drum Dog's [program page](https://findastra.github.io/astras-pet-os/apps/drum-dog-20261008.html) as published in Astra's PetOS.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run
 
 Open [drum-dog-20261008.html](drum-dog-20261008.html) directly in a modern browser. No install, server, account, or network connection is needed.
